@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Berdiyar/sabaq_17.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Zigfruid/recycle_20task.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android\AndroidStudioProjects" />
